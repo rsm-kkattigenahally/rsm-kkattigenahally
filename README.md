@@ -1,17 +1,42 @@
-## Hi there 👋
-I'm Komal Nagaraj, a Software Engineer with about 3 years of experience in backend engineering with Python, Django, SQL, AWS. I recently started working with Agentic AIs and Data Engineering tools like PySpark, Kafka, and Airflow. 
+I'm a Software Engineer with ~3 years of experience building backend systems using Python, Django, SQL, and AWS.
+Recently, I’ve been expanding into Data Engineering and Agentic AI, working hands-on with PySpark, Kafka, Airflow, and LLM-based systems.
 
-<!--
-**rsm-kkattigenahally/rsm-kkattigenahally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This portfolio showcases projects across:
 
-Here are some ideas to get you started:
+- Predictive modeling
+- Data engineering pipelines
+- Agentic AI systems and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Areas of Focus
+
+Backend Engineering: Python, Django, REST APIs, SQL, AWS
+
+Data Engineering: PySpark, Kafka, Airflow, ETL pipelines
+
+Machine Learning & Analytics: Predictive modeling, time series, feature engineering
+
+Agentic AI: LLM-driven agents, workflow automation, intelligent decision systems
+
+🚀 Featured Projects
+
+Predictive Modeling: Pricing trends, refund prediction, similarity scoring
+
+Data Engineering: Scalable pipelines using Spark, Kafka, and Airflow
+
+Agentic AI: Autonomous agents for job search, interview practice, and workflow orchestration
+
+(Detailed project breakdowns are available in the repositories below.)
+
+🛠 Tech Stack
+
+Languages: Python, SQL
+Frameworks: Django, FastAPI
+Data: PySpark, Kafka, Airflow
+ML: LightGBM, NLP, Time Series
+Cloud: AWS (Cognito, S3, API Gateway, Lightsail)
+Tools: Git, Docker, Streamlit
+
+🎓 Education
+
+M.S. in Business Analytics
+University of California, San Diego (Expected Dec 2025)
