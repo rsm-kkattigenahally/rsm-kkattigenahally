@@ -10,9 +10,11 @@ This portfolio showcases projects across:
 🎓 Education
 
 M.S. in Business Analytics
+
 University of California, San Diego (2024-2025)
 
 B.E in Electronics and Communication 
+
 Siddaganga Institute of Technology (2017-2021)
 
 🧠 Areas of Focus
