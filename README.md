@@ -7,36 +7,26 @@ This portfolio showcases projects across:
 - Data engineering pipelines
 - Agentic AI systems and automation
 
+🎓 Education
+
+M.S. in Business Analytics
+University of California, San Diego (2024-2025)
+
+B.E in Electronics and Communication 
+Siddaganga Institute of Technology (2017-2021)
+
 🧠 Areas of Focus
 
-Backend Engineering: Python, Django, REST APIs, SQL, AWS
+- Backend Engineering: Python, Django, REST APIs, SQL, AWS
+- Data Engineering: PySpark, Kafka, Airflow, ETL pipelines
+- Machine Learning & Analytics: Predictive modeling, time series, feature engineering
+- Agentic AI: LLM-driven agents, workflow automation
 
-Data Engineering: PySpark, Kafka, Airflow, ETL pipelines
-
-Machine Learning & Analytics: Predictive modeling, time series, feature engineering
-
-Agentic AI: LLM-driven agents, workflow automation, intelligent decision systems
-
-🚀 Featured Projects
-
-Predictive Modeling: Pricing trends, refund prediction, similarity scoring
-
-Data Engineering: Scalable pipelines using Spark, Kafka, and Airflow
-
-Agentic AI: Autonomous agents for job search, interview practice, and workflow orchestration
-
-(Detailed project breakdowns are available in the repositories below.)
 
 🛠 Tech Stack
 
 Languages: Python, SQL
 Frameworks: Django, FastAPI
 Data: PySpark, Kafka, Airflow
-ML: LightGBM, NLP, Time Series
-Cloud: AWS (Cognito, S3, API Gateway, Lightsail)
-Tools: Git, Docker, Streamlit
 
-🎓 Education
 
-M.S. in Business Analytics
-University of California, San Diego (Expected Dec 2025)
