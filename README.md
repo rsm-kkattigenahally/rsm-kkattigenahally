@@ -9,7 +9,7 @@ This portfolio showcases projects across:
 
 🎓 Education
 
-M.S. in Business Analytics
+M.S. in Analytics
 
 University of California, San Diego (2024-2025)
 
