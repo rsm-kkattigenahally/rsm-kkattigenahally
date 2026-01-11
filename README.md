@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Komal Nagaraj, a Software Engineer with about 3 years of experience in backend engineering with Python, Django, SQL, AWS. I recently started working with Agentic AIs and Data Engineering tools like PySpark, Kafka, and Airflow. 
 
 <!--
 **rsm-kkattigenahally/rsm-kkattigenahally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
